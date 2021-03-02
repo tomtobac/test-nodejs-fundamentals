@@ -7,7 +7,7 @@ configuration:
       - unit.xml
   ide_config:
     default_open_files:
-      - app.js
+      - src/index.js
     project_menu:
       run: npm start
       install: npm install

@@ -1,4 +1,4 @@
-const images = require('../data/pictures.json');
+const images = require('../data/images.json');
 const users = require('../data/users.json');
 
 const getImageById = (imageId) => {
